@@ -1,0 +1,5 @@
+document.getElementById('imgFanCtl')
+        .src="https://acegif.com/wp-content/uploads/2022/fzk5d/fan-gif-67-cartoon-fan-with-stripes.gif";
+
+<!-- document.body.classList.toggle('https://acegif.com/wp-content/uploads/2022/fzk5d/fan-gif-67-cartoon-fan-with-stripes.gif');
+                -->
